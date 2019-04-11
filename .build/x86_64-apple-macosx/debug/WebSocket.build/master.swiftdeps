@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "70c25cbb19ef0f0f2a060a1a756ae5a3"
+build_time: [1554951540, 95401000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/Exports.swift": [1554951114, 488298147]
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Client.swift": [1554951114, 488531250]
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/WebSocket+Server.swift": [1554951114, 488684422]
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/WebSocket.swift": [1554951114, 488875632]
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/WebSocketFrameSequence.swift": [1554951114, 489074505]
+  "/Users/mu/Hello/.build/checkouts/websocket/Sources/WebSocket/WebSocketHandler.swift": [1554951114, 489217442]

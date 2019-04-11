@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "a163160ce6ec4a020c096f59c58d9d0b"
+build_time: [1554951527, 342619000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Exports.swift": [1554951116, 590834172]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validatable.swift": [1554951116, 591035542]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/ValidationError.swift": [1554951116, 591320072]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validations.swift": [1554951116, 591606973]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validator.swift": [1554951116, 591908105]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/ValidatorType.swift": [1554951116, 592095583]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/AndValidator.swift": [1554951116, 592322096]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/CharacterSetValidator.swift": [1554951116, 592464398]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/CountValidator.swift": [1554951116, 592612024]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/EmailValidator.swift": [1554951116, 592759100]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/EmptyValidator.swift": [1554951116, 592876352]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/InValidator.swift": [1554951116, 593032433]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/NilIgnoringValidator.swift": [1554951116, 593202941]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/NilValidator.swift": [1554951116, 593414389]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/NotValidator.swift": [1554951116, 593625339]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/OrValidator.swift": [1554951116, 593826274]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/RangeValidator.swift": [1554951116, 594026297]
+  "/Users/mu/Hello/.build/checkouts/validation/Sources/Validation/Validators/URLValidator.swift": [1554951116, 594230907]

@@ -1,0 +1,21 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "d7d295496c280266cc0920477e7c6959"
+build_time: [1554951519, 885703000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1554951116, 49580654]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/IdentityVerification.swift": [1554951116, 49753954]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1554951116, 49929145]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1554951116, 50353918]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1554951116, 50754291]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/PosixPort.swift": [1554951116, 50953447]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLCertificate.swift": [1554951116, 51200549]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLConnection.swift": [1554951116, 51436761]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLContext.swift": [1554951116, 51676011]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLErrors.swift": [1554951116, 51870026]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLInit.swift": [1554951116, 52078011]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1554951116, 52345386]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1554951116, 52650325]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1554951116, 52889051]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLPublicKey.swift": [1554951116, 53030634]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/SSLVerificationCallbacks.swift": [1554951116, 53141198]
+  "/Users/mu/Hello/.build/checkouts/swift-nio-ssl/Sources/NIOOpenSSL/TLSConfiguration.swift": [1554951116, 53310272]

@@ -1,0 +1,4 @@
+module CNIOZlib {
+    umbrella header "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/CNIOZlib/include/CNIOZlib.h"
+    export *
+}

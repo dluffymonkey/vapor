@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1d8ff224392242624e58d071f80f3c9a"
+build_time: [1554951498, 600850000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/Heap.swift": [1554951118, 527633595]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOPriorityQueue/PriorityQueue.swift": [1554951118, 527787028]

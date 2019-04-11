@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8453f843cd7612e626089a1b174ed0e5"
+build_time: [1554951517, 87554000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOTLS/ApplicationProtocolNegotiationHandler.swift": [1554951118, 528134580]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOTLS/SNIHandler.swift": [1554951118, 528534370]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOTLS/TLSEvents.swift": [1554951118, 528838518]

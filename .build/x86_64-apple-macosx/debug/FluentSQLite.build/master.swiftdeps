@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "14d68e5087a86aa92597f98e89111092"
+build_time: [1554951552, 212454000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/Exports.swift": [1554951117, 372692568]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteError.swift": [1554951117, 372847084]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteProvider.swift": [1554951117, 373017710]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteQuery.swift": [1554951117, 373278946]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/FluentSQLiteSchema.swift": [1554951117, 373395309]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+JoinSupporting.swift": [1554951117, 373547282]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+MigrationSupporting.swift": [1554951117, 373683501]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+QuerySupporting.swift": [1554951117, 373922179]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+SchemaSupporting.swift": [1554951117, 374203283]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteDatabase+TransactionSupporting.swift": [1554951117, 374379561]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteModels.swift": [1554951117, 374536582]
+  "/Users/mu/Hello/.build/checkouts/fluent-sqlite/Sources/FluentSQLite/SQLiteTypes.swift": [1554951117, 374808263]

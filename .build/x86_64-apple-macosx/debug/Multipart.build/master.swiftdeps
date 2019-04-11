@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "50d5123fa12300fe734bb402ee3f25bc"
+build_time: [1554951527, 344424000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/Exports.swift": [1554951118, 741702250]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/FormDataDecoder.swift": [1554951118, 741966449]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/FormDataEncoder.swift": [1554951118, 742109146]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/MultipartError.swift": [1554951118, 742417874]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/MultipartParser.swift": [1554951118, 761897682]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/MultipartPart.swift": [1554951118, 742777633]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/MultipartPartConvertible.swift": [1554951118, 742920889]
+  "/Users/mu/Hello/.build/checkouts/multipart/Sources/Multipart/MultipartSerializer.swift": [1554951118, 743033443]

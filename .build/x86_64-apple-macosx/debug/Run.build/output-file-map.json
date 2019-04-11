@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mu/Hello/.build/x86_64-apple-macosx/debug/Run.build/master.swiftdeps"
+  },
+  "/Users/mu/Hello/Sources/Run/main.swift": {
+    "dependencies": "/Users/mu/Hello/.build/x86_64-apple-macosx/debug/Run.build/main.d",
+    "object": "/Users/mu/Hello/.build/x86_64-apple-macosx/debug/Run.build/main.swift.o",
+    "swiftmodule": "/Users/mu/Hello/.build/x86_64-apple-macosx/debug/Run.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/mu/Hello/.build/x86_64-apple-macosx/debug/Run.build/main.swiftdeps"
+  }
+}

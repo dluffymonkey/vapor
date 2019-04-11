@@ -1,0 +1,12 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "a84eb55b982d0cfd41da6f77f70e636c"
+build_time: [1554951527, 342637000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1554951116, 214990566]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1554951116, 215110318]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1554951116, 215258316]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1554951116, 215396291]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1554951116, 215526740]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1554951116, 215632829]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/Exports.swift": [1554951116, 215784870]
+  "/Users/mu/Hello/.build/checkouts/url-encoded-form/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1554951116, 215887957]

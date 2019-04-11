@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "fec5a51ed385596cd7cc5c45262e2395"
+build_time: [1554951524, 144402000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/Base64.swift": [1554951118, 529095759]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/SHA1.swift": [1554951118, 423828639]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketErrorCodes.swift": [1554951118, 529473256]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrame.swift": [1554951118, 529766797]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameDecoder.swift": [1554951118, 530119429]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketFrameEncoder.swift": [1554951118, 530431794]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketOpcode.swift": [1554951118, 530705698]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketProtocolErrorHandler.swift": [1554951118, 530957367]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOWebSocket/WebSocketUpgrader.swift": [1554951118, 531257319]

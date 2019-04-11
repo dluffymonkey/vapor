@@ -1,0 +1,19 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "6915a7b86ff4c799e29d15aee7235740"
+build_time: [1554951519, 504278000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Async+NIO.swift": [1554951117, 555294972]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/AsyncError.swift": [1554951117, 555451259]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Collection+Future.swift": [1554951117, 555788756]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Deprecated.swift": [1554951117, 555980572]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Exports.swift": [1554951117, 556145529]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+DoCatch.swift": [1554951117, 556318276]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Flatten.swift": [1554951117, 591702722]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Global.swift": [1554951117, 556621863]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Map.swift": [1554951117, 556786656]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Transform.swift": [1554951117, 556899629]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Variadic.swift": [1554951117, 557046395]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Future+Void.swift": [1554951117, 557179782]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/FutureType.swift": [1554951117, 591985306]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/QueueHandler.swift": [1554951117, 557468738]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Async/Worker.swift": [1554951117, 557673312]

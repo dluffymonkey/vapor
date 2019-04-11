@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8ada26a06c337595b03ef0aecc263a2f"
+build_time: [1554951548, 761989000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/Exports.swift": [1554951117, 197591008]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLQuery.swift": [1554951117, 197713920]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/FluentSQLSchema.swift": [1554951117, 198019322]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/QueryBuilder+GroupBy.swift": [1554951117, 198143740]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/SQL+Contains.swift": [1554951117, 198329179]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/SQL+JoinSupporting.swift": [1554951117, 198471273]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/SQL+QuerySupporting.swift": [1554951117, 198630105]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/SQL+SchemaSupporting.swift": [1554951117, 199003154]
+  "/Users/mu/Hello/.build/checkouts/fluent/Sources/FluentSQL/SchemaBuilder+Field.swift": [1554951117, 199135788]

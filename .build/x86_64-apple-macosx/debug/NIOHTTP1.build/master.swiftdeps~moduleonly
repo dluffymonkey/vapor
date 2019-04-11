@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "2170c42313ab38c543e18c6a35ee367c"
+build_time: [1554951517, 88998000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/ByteCollectionUtils.swift": [1554951118, 522368149]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPDecoder.swift": [1554951118, 522858841]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPEncoder.swift": [1554951118, 523634944]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1554951118, 523908035]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1554951118, 524128971]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1554951118, 524408987]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1554951118, 524664008]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPTypes.swift": [1554951118, 525324379]
+  "/Users/mu/Hello/.build/checkouts/swift-nio/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1554951118, 525790797]

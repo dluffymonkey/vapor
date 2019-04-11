@@ -1,0 +1,10 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "c08f6a4f77fd4e8a978ff567c3bd459c"
+build_time: [1554951553, 333773000]
+inputs:
+  "/Users/mu/Hello/Sources/App/Controllers/TodoController.swift": [1554950947, 437467669]
+  "/Users/mu/Hello/Sources/App/Models/Todo.swift": [1554950947, 437655814]
+  "/Users/mu/Hello/Sources/App/app.swift": [1554950947, 437756233]
+  "/Users/mu/Hello/Sources/App/boot.swift": [1554950947, 437964022]
+  "/Users/mu/Hello/Sources/App/configure.swift": [1554950947, 438168342]
+  "/Users/mu/Hello/Sources/App/routes.swift": [1554950947, 438304491]

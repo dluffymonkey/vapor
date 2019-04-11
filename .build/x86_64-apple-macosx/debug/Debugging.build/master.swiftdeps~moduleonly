@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "8c6f6013530ba0613866aea96254ad43"
+build_time: [1554951498, 598774000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Debugging/Debuggable.swift": [1554951117, 564213953]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Debugging/Demangler.swift": [1554951117, 564391497]
+  "/Users/mu/Hello/.build/checkouts/core/Sources/Debugging/SourceLocation.swift": [1554951117, 564599760]

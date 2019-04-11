@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "527a2b99f82c480918a1b147f40ba12e"
+build_time: [1554951498, 598890000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/core/Sources/COperatingSystem/libc.swift": [1554951117, 559606478]

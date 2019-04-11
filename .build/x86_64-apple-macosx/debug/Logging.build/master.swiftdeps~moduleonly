@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
+options: "1536e1b0d15804979370b243386b744d"
+build_time: [1554951530, 758440000]
+inputs:
+  "/Users/mu/Hello/.build/checkouts/console/Sources/Logging/Exports.swift": [1554951115, 453636403]
+  "/Users/mu/Hello/.build/checkouts/console/Sources/Logging/LogLevel.swift": [1554951115, 453780077]
+  "/Users/mu/Hello/.build/checkouts/console/Sources/Logging/Logger.swift": [1554951115, 453989152]
+  "/Users/mu/Hello/.build/checkouts/console/Sources/Logging/PrintLogger.swift": [1554951115, 454151655]
